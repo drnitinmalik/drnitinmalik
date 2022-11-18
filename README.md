@@ -1,10 +1,10 @@
 ### About Me 👋
 
-- 19 years of academic and interdisciplinary research experience at UG, PG and doctoral level in NBA Accredited programs
+- 20 years of academic and interdisciplinary research experience at UG, PG and doctoral level in NBA Accredited programs
 - 👯 I’m looking to collaborate on taking challenges in hackathons
 - 🔭 I’m currently working on recommendation systems
-- 🌱 I’m currently learning recurrent neural networks
-- 🤔 I’m looking for help with Autoencoders
+- 🌱 I’m currently learning Encoder-Decoder models
+- 🤔 I’m looking for help with Attention Mechansim
 - ⚡ Fun facts: Go to github repository. 
   - Replace com by dev in URL to edit code in web editor
   - Replace github.com by nbviewer.org/github in URL to open notebook in Jupyter nbviewer
