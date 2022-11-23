@@ -9,6 +9,7 @@
   - Replace com by dev in URL to edit code in web editor
   - Replace github.com by nbviewer.org/github in URL to open notebook in Jupyter nbviewer
   - Replace github.com by colab.research.google.com/github in URL to open notebook in Colab
+  - Add .git at the end of the URL to clone the repository
 - 📫 You can find me on [![Twitter][1.2]][1] and on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
